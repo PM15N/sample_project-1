@@ -27,5 +27,9 @@ class FirstJavaCode
          {
                   System.out.println("Hello this is a new small change from akhil");
          }
+         void method()
+         {
+                  System.out.println("hello, preetika this side");
+         }
        
 }
